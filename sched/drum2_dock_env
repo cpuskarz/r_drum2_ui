@@ -1,0 +1,2 @@
+mongo_server=mongodb://192.168.99.100:27017
+app_server=http://192.168.99.100:5002
